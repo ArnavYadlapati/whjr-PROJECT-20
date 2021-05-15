@@ -1,2 +1,2 @@
-# whjr-PROJECT-20
-cat and mouse game
+# Cat-and-mouse-class20
+Cat chasing mouse and mouse teasing cat
